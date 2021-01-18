@@ -67,7 +67,7 @@ namespace ISAAR.MSolve.Tests.FEM
             {
                 DoxDays[i] = 24 * 3600 * Dox[i];
             }
-
+            djdjdk
             var DcellDays = new double[Dcell.Length];
             for (int i = 0; i < Dcell.Length; i++)
             {
