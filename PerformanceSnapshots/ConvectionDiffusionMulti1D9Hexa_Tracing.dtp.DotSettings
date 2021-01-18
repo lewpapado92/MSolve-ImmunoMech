@@ -1,0 +1,560 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EAnalyzers_002EInterfaces_002EIAnalyzer_002ESolve/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06A000A5" OwnTime="43392193" SysTime="1377433695" TotalTime="13192232385" /&gt;&lt;Implementation FuId="0x06A00009" OwnTime="11563810" SysTime="122273989" TotalTime="1443174854" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EOutput_002EUtilities_002EWriteToFile/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F0030B" OwnTime="6958196" SysTime="1376349410" TotalTime="2400044902" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002ELoading_002EInterfaces_002EISurfaceLoad_002ECalculateSurfaceLoad/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D00072" OwnTime="779259190" SysTime="281397296" TotalTime="5511476652" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EOutput_002EFullVectorWriter_002EWriteToStream/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F002EB" OwnTime="32782374" SysTime="912021891" TotalTime="1014418878" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002ECommons_002ETable_00603_002EFind/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06B0014D" OwnTime="879630080" SysTime="9239415" TotalTime="888869495" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EIBounded2D_002Eget_005FNumRows/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F003D5" OwnTime="485359731" SysTime="0" TotalTime="485359731" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002ECommons_002ETable_00603_002ETryAdd/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06B00156" OwnTime="58019477" SysTime="415493146" TotalTime="473512623" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EIIndexable2D_002Eget_005FItem/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F003D7" OwnTime="470922582" SysTime="0" TotalTime="653242998" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=DotNumerics_002ELinearAlgebra_002ECSLapack_002ELSAME_002ERun/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x05300308" OwnTime="212732379" SysTime="172677667" TotalTime="385410046" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EMatrix_002Eset_005FItem/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F003D8" OwnTime="324065288" SysTime="0" TotalTime="493921062" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ESolvers_002EISolver_002EDistributeNodalLoads/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x07500013" OwnTime="110260607" SysTime="202986883" TotalTime="842576182" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=System_002ECollections_002EIEnumerator_002EMoveNext/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06B00176" OwnTime="147189573" SysTime="124606842" TotalTime="323802969" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=DotNumerics_002ELinearAlgebra_002ECSLapack_002EDGEMV_002ERun/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x05300598" OwnTime="258697504" SysTime="10320720" TotalTime="507818995" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EVector_002ETensorProduct/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F000B0" OwnTime="245445065" SysTime="0" TotalTime="569520073" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002ESparseVector_002ECreateFromDictionary/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F0004E" OwnTime="52395684" SysTime="143267190" TotalTime="203189471" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EIIndexable1D_002Eget_005FLength/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00072" OwnTime="185212407" SysTime="0" TotalTime="185212407" /&gt;&lt;Implementation FuId="0x06F00044" OwnTime="2634930" SysTime="0" TotalTime="2634930" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EAnalyzers_002EInterfaces_002EIConvectionDiffusionIntegrationProvider_002EGetRhsFromHistoryLoad/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x07400016" OwnTime="37125286" SysTime="115649845" TotalTime="7274120046" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EMatrix_002E_002Ector/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F003D1" OwnTime="88160933" SysTime="62056619" TotalTime="150217552" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EMatrix_002EMultiplyRight/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F0040F" OwnTime="138637647" SysTime="5935635" TotalTime="639899095" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EMatrix_002EMultiplyIntoResult/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00413" OwnTime="143426659" SysTime="0" TotalTime="776534748" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=DotNumerics_002ELinearAlgebra_002ECSLapack_002EDGEMM_002ERun/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x053002E1" OwnTime="103961104" SysTime="31203562" TotalTime="281761770" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002ECommons_002EITable_00603_002Eget_005FItem/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06B00149" OwnTime="15073452" SysTime="116253885" TotalTime="131327337" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EIBounded2D_002Eget_005FNumColumns/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F003D3" OwnTime="124602252" SysTime="0" TotalTime="124602252" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EMatrix_002ETranspose/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00421" OwnTime="122678748" SysTime="0" TotalTime="342773114" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EAnalyzers_002ELinearAnalyzer_002EAddEquivalentNodalLoadsToRHS/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06A0000A" OwnTime="115204813" SysTime="6781302" TotalTime="1012934132" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EISliceable2D_002EGetRow/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00400" OwnTime="99387853" SysTime="4416126" TotalTime="247574107" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002ECommons_002ETable_00603_002E_002Ector/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06B00146" OwnTime="20802876" SysTime="82735234" TotalTime="103538110" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EVector_002E_002Ector/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00071" OwnTime="73692301" SysTime="27881866" TotalTime="101574167" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002ECommons_002EConversions_002EColumnMajorToRowMajor/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00774" OwnTime="62832737" SysTime="31564980" TotalTime="94397717" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EEntities_002EModel_002EAssignSurfaceLoads/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D0024D" OwnTime="56123769" SysTime="31561394" TotalTime="6763796294" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EMatrix_002Eop_005FMultiply/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F003E2" OwnTime="46400394" SysTime="0" TotalTime="684590545" /&gt;&lt;Implementation FuId="0x06F003E0" OwnTime="18428413" SysTime="0" TotalTime="121712462" /&gt;&lt;Implementation FuId="0x06F003E4" OwnTime="13142602" SysTime="0" TotalTime="418090276" /&gt;&lt;Implementation FuId="0x06F003E3" OwnTime="3551156" SysTime="0" TotalTime="110278157" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ESolvers_002EISolver_002ESolve/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x07500221" OwnTime="19487448" SysTime="53356853" TotalTime="286323294" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EProviders_002EIBlasProvider_002EDgemm/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00293" OwnTime="68742051" SysTime="0" TotalTime="375367865" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EVector_002ECreateFromArray/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00076" OwnTime="49761978" SysTime="15171880" TotalTime="127854557" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EVector_002ECreateWithValue/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00078" OwnTime="63846716" SysTime="0" TotalTime="83208591" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EReaders_002EComsolMeshReader2_002ECreateModelFromFile/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D00042" OwnTime="23778408" SysTime="39574365" TotalTime="204469188" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EMatrix_002EScale/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00418" OwnTime="39481845" SysTime="18508075" TotalTime="103284049" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EAnalyzers_002EDynamic_002EConvectionDiffusionDynamicAnalyzer_002ECalculateRhsImplicit/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06A000A7" OwnTime="16062617" SysTime="27031395" TotalTime="465411833" /&gt;&lt;Implementation FuId="0x06A000A6" OwnTime="8314336" SysTime="4893256" TotalTime="483537004" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EGeometry_002ECoordinates_002ECartesianPoint_002Eget_005FY/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06C0005B" OwnTime="47542431" SysTime="0" TotalTime="47542431" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EProviders_002EManaged_002EManagedLapackProvider_002E_002Ecctor/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F002A8" OwnTime="45301806" SysTime="0" TotalTime="45507663" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EGeometry_002ECoordinates_002ECartesianPoint_002Eget_005FZ/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06C0005C" OwnTime="44896207" SysTime="0" TotalTime="44896207" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EEntities_002EModel_002EAssignNodalLoads/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D0024F" OwnTime="26736628" SysTime="17055277" TotalTime="177072406" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002EInterfaces_002EIStructuralModel_002EAssignLoads/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D0024A" OwnTime="38324932" SysTime="4883371" TotalTime="7113859939" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EProviders_002EIBlasProvider_002EDaxpy/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F0028A" OwnTime="43097076" SysTime="0" TotalTime="58093792" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ESolvers_002ESolverLogger_002EIncrementAnalysisStep/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x07500022" OwnTime="9283470" SysTime="33674472" TotalTime="42957942" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EAnalyzers_002EDynamic_002EConvectionDiffusionDynamicAnalyzer_002EUpdateTemperature/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06A000AB" OwnTime="16400528" SysTime="26347041" TotalTime="2473410352" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ESolvers_002ESolverLogger_002ELogTaskDuration/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0750001F" OwnTime="9071273" SysTime="32311614" TotalTime="41382887" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EGeometry_002ECoordinates_002ECartesianPoint_002Eget_005FX/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06C0005A" OwnTime="40915067" SysTime="0" TotalTime="40915067" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002ELibrarySettings_002Eget_005FBlas/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F0000A" OwnTime="39934049" SysTime="0" TotalTime="97272332" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002ECommons_002EITable_00603_002EContains/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06B0014C" OwnTime="11054725" SysTime="28203724" TotalTime="39258449" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EIVector_002EAxpyIntoThis/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00085" OwnTime="39206015" SysTime="0" TotalTime="89016677" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EMatrix_002ECreateZero/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F003DD" OwnTime="32782949" SysTime="5757879" TotalTime="65297533" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EEntities_002ESubdomain_002EDefineNodesFromElements/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D00283" OwnTime="10682058" SysTime="26595648" TotalTime="37862325" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002ECommons_002ETable_00603_002B_003CGetEnumerator_003Ed_005F_005F13_002E_003C_003Em_005F_005FFinally2/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06B00178" OwnTime="20625400" SysTime="15834119" TotalTime="36459519" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EProviders_002EIBlasProvider_002EDgemv/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F0028E" OwnTime="35514790" SysTime="0" TotalTime="552744051" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EInterpolation_002EIIsoparametricInterpolation2D_002EEvaluateFunctionsAtGaussPoints/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D00152" OwnTime="5817500" SysTime="29458440" TotalTime="35282327" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EAnalyzers_002EDynamic_002EConvectionDiffusionDynamicAnalyzer_002EInitializeRhs/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06A000A9" OwnTime="19675131" SysTime="15190731" TotalTime="70620654" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002ECommons_002EPreconditions_002ECheckSameMatrixDimensions/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F007C6" OwnTime="34688775" SysTime="0" TotalTime="49440958" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EProviders_002ETranslations_002ETranslate/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F001F9" OwnTime="34274310" SysTime="0" TotalTime="34274310" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EVectorExtensions_002ECrossProduct/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00121" OwnTime="31577179" SysTime="2695221" TotalTime="72040217" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EEntities_002EModel_002Eget_005FSubdomains/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D00244" OwnTime="9213753" SysTime="24905622" TotalTime="36816359" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EEntities_002EModel_002EAssignBodyLoads/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D0024B" OwnTime="18421647" SysTime="14935862" TotalTime="108830189" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EMatrix_002EInvert/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00405" OwnTime="33004568" SysTime="0" TotalTime="80842126" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EEntities_002EModel_002EAssignTimeDependentNodalLoads/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D00250" OwnTime="16617253" SysTime="14558381" TotalTime="104774680" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EMatrix_002EMultiply/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00411" OwnTime="29941878" SysTime="0" TotalTime="746219517" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002ECommons_002EAnalyticFormulas_002EMatrix2x2ColMajorInvert/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00760" OwnTime="22822553" SysTime="6748982" TotalTime="29571535" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EElements_002EConvectionDiffusionElement3DFactory_002E_002Ecctor/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D003EC" OwnTime="18656184" SysTime="10533369" TotalTime="91989063" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ETests_002EFEM_002EConvectionDiffusion1D9Hexa_002ECreateModel/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x04400022" OwnTime="28599894" SysTime="204285" TotalTime="237021300" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ETests_002EFEM_002EConvectionDiffusion1D9Hexa_002ERunTest/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x04400020" OwnTime="13760931" SysTime="14584254" TotalTime="14046021984" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=DotNumerics_002ELinearAlgebra_002ECSLapack_002EIDNRM2_002ERun/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x053002CD" OwnTime="26035798" SysTime="0" TotalTime="26035798" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EMatrix_002EAxpyIntoThis/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F003EA" OwnTime="25179797" SysTime="0" TotalTime="182850180" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002EFreedomDegrees_002ESubdomainFreeDofOrderingCaching_002EGetElementData/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06B0011E" OwnTime="5398914" SysTime="18382185" TotalTime="35685906" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EProviders_002EIBlasProvider_002EDscal/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F0028D" OwnTime="22881049" SysTime="0" TotalTime="37576337" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EVector_002Eget_005FRawData/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00073" OwnTime="22395167" SysTime="0" TotalTime="22395167" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EIVector_002EScaleIntoThis/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F000AD" OwnTime="22160629" SysTime="0" TotalTime="51155461" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EAnalyzers_002EInterfaces_002EIAnalyzer_002EInitialize/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06A000A4" OwnTime="18626583" SysTime="281694" TotalTime="547701846" /&gt;&lt;Implementation FuId="0x06A00008" OwnTime="2823903" SysTime="0" TotalTime="6738633" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EVector_002ECreateZero/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00079" OwnTime="19892856" SysTime="1450917" TotalTime="37869798" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EInterpolation_002EIIsoparametricInterpolation2D_002EEvaluateNaturalGradientsAtGaussPoints/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D00154" OwnTime="4552472" SysTime="15938874" TotalTime="20509301" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002ECommons_002EPreconditions_002ECheckVectorDimensions/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F007CF" OwnTime="20210624" SysTime="0" TotalTime="28563921" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EIVectorView_002ENorm2/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F000A7" OwnTime="20161400" SysTime="0" TotalTime="70498850" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EInterpolation_002EJacobians_002EIsoparametricJacobian3D_002ECalculateJacobianMatrix/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D00175" OwnTime="16980144" SysTime="2999841" TotalTime="47475153" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EIIndexable1D_002Eget_005FItem/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00074" OwnTime="19353410" SysTime="0" TotalTime="19353410" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EAnalyzers_002EDynamic_002EConvectionDiffusionDynamicAnalyzer_002EUpdateResultStorages/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06A000AA" OwnTime="11878767" SysTime="7143631" TotalTime="21673746" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EProviders_002EILapackProvider_002EDpotrs/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F002A3" OwnTime="18750045" SysTime="0" TotalTime="19137843" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002ECommons_002EPreconditions_002ECheckMultiplicationDimensions/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F007C1" OwnTime="18661047" SysTime="0" TotalTime="18661047" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EOutput_002EFormatting_002EINumericFormat_002EGetRealNumberFormat/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F0031B" OwnTime="1943371" SysTime="16125766" TotalTime="18240165" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ESolvers_002ESolverLogger_002ELogNumDofs/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x07500020" OwnTime="4327917" SysTime="13240317" TotalTime="17568234" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002ECommons_002EPreconditions_002ECheckIndexRow/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F007BE" OwnTime="16134158" SysTime="0" TotalTime="23519261" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EVectors_002EVectorExtensions_002EAddIntoThis/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F0011E" OwnTime="15906950" SysTime="0" TotalTime="104923627" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002ECommons_002ETable_00603_002EGetEnumerator/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06B0014E" OwnTime="14454113" SysTime="1443393" TotalTime="25576541" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002ECommons_002ETable_00603_002B_003CGetEnumerator_003Ed_005F_005F13_002E_003C_003Em_005F_005FFinally1/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06B00177" OwnTime="11856613" SysTime="3690422" TotalTime="15547035" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EProviders_002EIBlasProvider_002EDnrm2/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F0028C" OwnTime="15528813" SysTime="0" TotalTime="41564611" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=DotNumerics_002ELinearAlgebra_002ECSLapack_002EDAXPY_002ERun/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x05300389" OwnTime="14996716" SysTime="0" TotalTime="14996716" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EElements_002EConvectionDiffusionElement3D_002EBuildCapacityMatrix/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D003D8" OwnTime="14773293" SysTime="88551" TotalTime="136020183" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=DotNumerics_002ELinearAlgebra_002ECSLapack_002EDSCAL_002ERun/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x05300293" OwnTime="14695288" SysTime="0" TotalTime="14695288" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EInterpolation_002EJacobians_002EIsoparametricJacobian3D_002E_002Ector/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D0016F" OwnTime="14244771" SysTime="40035" TotalTime="73586184" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EEntities_002EModel_002EBuildInterconnectionData/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D00257" OwnTime="13493661" SysTime="21312" TotalTime="61955862" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ESolvers_002EOrdering_002ENodeMajorDofOrderingStrategy_002EOrderFreeDofsOfElementSet/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x07500036" OwnTime="9317112" SysTime="2995701" TotalTime="19026819" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002EInterfaces_002EISubdomain_002Eget_005FID/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D00273" OwnTime="12246937" SysTime="0" TotalTime="12246937" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002EIntegration_002EQuadratures_002EIQuadrature2D_002Eget_005FIntegrationPoints/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06B000BE" OwnTime="11375327" SysTime="0" TotalTime="11375327" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002ECommons_002ETable3D_00604_002E_002Ector/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06B00159" OwnTime="1998795" SysTime="1813506" TotalTime="3812301" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ETests_002EFEM_002EConvectionDiffusion1D9Hexa_002ESolveModel/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x04400023" OwnTime="9776208" SysTime="9954" TotalTime="13780133637" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002ELoading_002EInterfaces_002EISurfaceLoadElement_002ECalculateSurfaceLoad/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D00067" OwnTime="10004278" SysTime="0" TotalTime="5521480930" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EAnalyzers_002EInterfaces_002EIConvectionDiffusionIntegrationProvider_002EConductivityMatrixVectorProduct/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x07400017" OwnTime="5705716" SysTime="3596002" TotalTime="209742138" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ESolvers_002EAssemblers_002EDenseMatrixAssembler_002EBuildGlobalMatrix/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x07500241" OwnTime="5778114" SysTime="31227" TotalTime="287233059" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ESolvers_002EISolver_002EBuildGlobalMatrices/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x0750021D" OwnTime="4857303" SysTime="205449" TotalTime="296869860" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EAnalyzers_002EInterfaces_002EIConvectionDiffusionIntegrationProvider_002EStabilizingConductivityMatrixVectorProduct/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x07400018" OwnTime="5639982" SysTime="3587532" TotalTime="153715883" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ELinearAlgebra_002EMatrices_002EIMatrixView_002EMultiply/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06F00410" OwnTime="3756757" SysTime="0" TotalTime="238301599" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EAnalyzers_002EInterfaces_002EIAnalyzer_002EBuildMatrices/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06A000A2" OwnTime="3705924" SysTime="2589" TotalTime="202249833" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ESolvers_002EISolver_002EOrderDofs/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x07500015" OwnTime="8949336" SysTime="67359" TotalTime="77060853" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EFEM_002EElements_002EConvectionDiffusionElement3DFactory_002E_002Ector/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D003ED" OwnTime="5108913" SysTime="507" TotalTime="97098483" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002EDiscretization_002EInterfaces_002EIStructuralModel_002EConnectDataStructures/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x06D00252" OwnTime="6041802" SysTime="0" TotalTime="73088544" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/HotspotsPrecomputing/VirtualFunctionsList/=ISAAR_002EMSolve_002ETests_002EFEM_002EConvectionDiffusion1D9Hexa_002B_003C_003Ec_002E_003CCreateModel_003Eb_005F_005F3_005F1/@EntryIndexedValue">&lt;data&gt;&lt;Implementations&gt;&lt;Implementation FuId="0x044000F4" OwnTime="4354569" SysTime="533493" TotalTime="80516391" /&gt;&lt;/Implementations&gt;&lt;/data&gt;</s:String>
+	<s:String x:Key="/Default/PerformanceTabManager/Identity/@EntryValue">4f512c1f-377b-4ae4-be3e-cdf081dc5625</s:String>
+	<s:String x:Key="/Default/PerformanceTabManager/XmlContent/@EntryValue">&lt;TabManagerStates&gt;&lt;z:anyType xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns:d1p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.PerformanceTab" i:type="d1p1:PerformanceTabSerializer.State" xmlns:z="http://schemas.microsoft.com/2003/10/Serialization/"&gt;&#xD;
+  &lt;d1p1:ActiveIndex&gt;0&lt;/d1p1:ActiveIndex&gt;&#xD;
+  &lt;d1p1:TabStates&gt;&#xD;
+    &lt;d1p1:PerformanceTabSerializer.State.TabState&gt;&#xD;
+      &lt;d1p1:OpenedView&gt;0&lt;/d1p1:OpenedView&gt;&#xD;
+      &lt;d1p1:TabRootState xmlns:d4p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.TabRoots" i:type="d4p1:SnapshotTabRoot.State"&gt;&#xD;
+        &lt;d4p1:ViewsFactoryState xmlns:d5p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Views" i:type="d5p1:ViewsFactoryBase.State"&gt;&#xD;
+          &lt;d5p1:States&gt;&#xD;
+            &lt;d5p1:ViewsFactoryBase.State.ViewKeyAndState&gt;&#xD;
+              &lt;d5p1:ViewKey&gt;CallTreePerThread&lt;/d5p1:ViewKey&gt;&#xD;
+              &lt;d5p1:ViewState xmlns:d8p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.TreeViews" i:type="d8p1:SnapshotViewBase.State"&gt;&#xD;
+                &lt;d8p1:HorizontalScroll&gt;0&lt;/d8p1:HorizontalScroll&gt;&#xD;
+                &lt;d8p1:RootNodeData xmlns:d9p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Persistence"&gt;&#xD;
+                  &lt;d9p1:Children&gt;&#xD;
+                    &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                      &lt;d9p1:Children&gt;&#xD;
+                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                          &lt;d9p1:Children&gt;&#xD;
+                            &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                              &lt;d9p1:Children&gt;&#xD;
+                                &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                  &lt;d9p1:Children&gt;&#xD;
+                                    &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                      &lt;d9p1:Children&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;19371/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;C65D/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;DC75/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Folding" i:type="d22p1:FilterSubtreeFoldedNode.State"&gt;&#xD;
+                                            &lt;d22p1:FoldRoot xmlns:d23p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d23p1:SnapshotTreeNode.State"&gt;&#xD;
+                                              &lt;d23p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d23p1:myData&gt;19585/5&lt;/d23p1:myData&gt;&#xD;
+                                              &lt;/d23p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d23p1:IsRecursionBanned&gt;false&lt;/d23p1:IsRecursionBanned&gt;&#xD;
+                                            &lt;/d22p1:FoldRoot&gt;&#xD;
+                                            &lt;d22p1:FoldedNodes xmlns:d23p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" /&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:Focused&gt;true&lt;/d9p1:Focused&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;14D01/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Folding" i:type="d22p1:FilterSubtreeFoldedNode.State"&gt;&#xD;
+                                            &lt;d22p1:FoldRoot xmlns:d23p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d23p1:SnapshotTreeNode.State"&gt;&#xD;
+                                              &lt;d23p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d23p1:myData&gt;E065/5&lt;/d23p1:myData&gt;&#xD;
+                                              &lt;/d23p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d23p1:IsRecursionBanned&gt;false&lt;/d23p1:IsRecursionBanned&gt;&#xD;
+                                            &lt;/d22p1:FoldRoot&gt;&#xD;
+                                            &lt;d22p1:FoldedNodes xmlns:d23p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" /&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Folding" i:type="d22p1:FilterSubtreeFoldedNode.State"&gt;&#xD;
+                                            &lt;d22p1:FoldRoot xmlns:d23p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d23p1:SnapshotTreeNode.State"&gt;&#xD;
+                                              &lt;d23p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d23p1:myData&gt;197D1/5&lt;/d23p1:myData&gt;&#xD;
+                                              &lt;/d23p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d23p1:IsRecursionBanned&gt;false&lt;/d23p1:IsRecursionBanned&gt;&#xD;
+                                            &lt;/d22p1:FoldRoot&gt;&#xD;
+                                            &lt;d22p1:FoldedNodes xmlns:d23p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" /&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;15081/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;ACC5/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Folding" i:type="d22p1:ZeroFoldedNode.State"&gt;&#xD;
+                                            &lt;d22p1:FoldRoot xmlns:d23p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d23p1:SnapshotTreeNode.State"&gt;&#xD;
+                                              &lt;d23p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d23p1:myData&gt;15225/5&lt;/d23p1:myData&gt;&#xD;
+                                              &lt;/d23p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d23p1:IsRecursionBanned&gt;false&lt;/d23p1:IsRecursionBanned&gt;&#xD;
+                                            &lt;/d22p1:FoldRoot&gt;&#xD;
+                                            &lt;d22p1:FoldedNodes xmlns:d23p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays"&gt;&#xD;
+                                              &lt;d23p1:anyType xmlns:d24p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d24p1:SnapshotTreeNode.State"&gt;&#xD;
+                                                &lt;d24p1:mySectionNodesState&gt;&#xD;
+                                                  &lt;d24p1:myData&gt;15209/5&lt;/d24p1:myData&gt;&#xD;
+                                                &lt;/d24p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d24p1:IsRecursionBanned&gt;false&lt;/d24p1:IsRecursionBanned&gt;&#xD;
+                                              &lt;/d23p1:anyType&gt;&#xD;
+                                              &lt;d23p1:anyType xmlns:d24p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d24p1:SnapshotTreeNode.State"&gt;&#xD;
+                                                &lt;d24p1:mySectionNodesState&gt;&#xD;
+                                                  &lt;d24p1:myData&gt;151ED/5&lt;/d24p1:myData&gt;&#xD;
+                                                &lt;/d24p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d24p1:IsRecursionBanned&gt;false&lt;/d24p1:IsRecursionBanned&gt;&#xD;
+                                              &lt;/d23p1:anyType&gt;&#xD;
+                                              &lt;d23p1:anyType xmlns:d24p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d24p1:SnapshotTreeNode.State"&gt;&#xD;
+                                                &lt;d24p1:mySectionNodesState&gt;&#xD;
+                                                  &lt;d24p1:myData&gt;151D1/5&lt;/d24p1:myData&gt;&#xD;
+                                                &lt;/d24p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d24p1:IsRecursionBanned&gt;false&lt;/d24p1:IsRecursionBanned&gt;&#xD;
+                                              &lt;/d23p1:anyType&gt;&#xD;
+                                              &lt;d23p1:anyType xmlns:d24p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d24p1:SnapshotTreeNode.State"&gt;&#xD;
+                                                &lt;d24p1:mySectionNodesState&gt;&#xD;
+                                                  &lt;d24p1:myData&gt;151B5/5&lt;/d24p1:myData&gt;&#xD;
+                                                &lt;/d24p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d24p1:IsRecursionBanned&gt;false&lt;/d24p1:IsRecursionBanned&gt;&#xD;
+                                              &lt;/d23p1:anyType&gt;&#xD;
+                                              &lt;d23p1:anyType xmlns:d24p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d24p1:SnapshotTreeNode.State"&gt;&#xD;
+                                                &lt;d24p1:mySectionNodesState&gt;&#xD;
+                                                  &lt;d24p1:myData&gt;15199/5&lt;/d24p1:myData&gt;&#xD;
+                                                &lt;/d24p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d24p1:IsRecursionBanned&gt;false&lt;/d24p1:IsRecursionBanned&gt;&#xD;
+                                              &lt;/d23p1:anyType&gt;&#xD;
+                                              &lt;d23p1:anyType xmlns:d24p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d24p1:SnapshotTreeNode.State"&gt;&#xD;
+                                                &lt;d24p1:mySectionNodesState&gt;&#xD;
+                                                  &lt;d24p1:myData&gt;1509D/5&lt;/d24p1:myData&gt;&#xD;
+                                                &lt;/d24p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d24p1:IsRecursionBanned&gt;false&lt;/d24p1:IsRecursionBanned&gt;&#xD;
+                                              &lt;/d23p1:anyType&gt;&#xD;
+                                              &lt;d23p1:anyType xmlns:d24p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d24p1:SnapshotTreeNode.State"&gt;&#xD;
+                                                &lt;d24p1:mySectionNodesState&gt;&#xD;
+                                                  &lt;d24p1:myData&gt;DC91/5&lt;/d24p1:myData&gt;&#xD;
+                                                &lt;/d24p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d24p1:IsRecursionBanned&gt;false&lt;/d24p1:IsRecursionBanned&gt;&#xD;
+                                              &lt;/d23p1:anyType&gt;&#xD;
+                                            &lt;/d22p1:FoldedNodes&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Folding" i:type="d22p1:FilterSubtreeFoldedNode.State"&gt;&#xD;
+                                            &lt;d22p1:FoldRoot xmlns:d23p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d23p1:SnapshotTreeNode.State"&gt;&#xD;
+                                              &lt;d23p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d23p1:myData&gt;195F5/5&lt;/d23p1:myData&gt;&#xD;
+                                              &lt;/d23p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d23p1:IsRecursionBanned&gt;false&lt;/d23p1:IsRecursionBanned&gt;&#xD;
+                                            &lt;/d22p1:FoldRoot&gt;&#xD;
+                                            &lt;d22p1:FoldedNodes xmlns:d23p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" /&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;1510D/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                        &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                          &lt;d9p1:Children /&gt;&#xD;
+                                          &lt;d9p1:State xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Folding" i:type="d22p1:FilterSubtreeFoldedNode.State"&gt;&#xD;
+                                            &lt;d22p1:FoldRoot xmlns:d23p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d23p1:SnapshotTreeNode.State"&gt;&#xD;
+                                              &lt;d23p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d23p1:myData&gt;1517D/5&lt;/d23p1:myData&gt;&#xD;
+                                              &lt;/d23p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d23p1:IsRecursionBanned&gt;false&lt;/d23p1:IsRecursionBanned&gt;&#xD;
+                                            &lt;/d22p1:FoldRoot&gt;&#xD;
+                                            &lt;d22p1:FoldedNodes xmlns:d23p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" /&gt;&#xD;
+                                          &lt;/d9p1:State&gt;&#xD;
+                                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                      &lt;/d9p1:Children&gt;&#xD;
+                                      &lt;d9p1:State xmlns:d20p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d20p1:SnapshotTreeNode.State"&gt;&#xD;
+                                        &lt;d20p1:mySectionNodesState&gt;&#xD;
+                                          &lt;d20p1:myData&gt;197ED/5&lt;/d20p1:myData&gt;&#xD;
+                                        &lt;/d20p1:mySectionNodesState&gt;&#xD;
+                                        &lt;d20p1:IsRecursionBanned&gt;false&lt;/d20p1:IsRecursionBanned&gt;&#xD;
+                                      &lt;/d9p1:State&gt;&#xD;
+                                    &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                    &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                      &lt;d9p1:Children /&gt;&#xD;
+                                      &lt;d9p1:State xmlns:d20p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d20p1:SnapshotTreeNode.State"&gt;&#xD;
+                                        &lt;d20p1:mySectionNodesState&gt;&#xD;
+                                          &lt;d20p1:myData&gt;233AD/5&lt;/d20p1:myData&gt;&#xD;
+                                        &lt;/d20p1:mySectionNodesState&gt;&#xD;
+                                        &lt;d20p1:IsRecursionBanned&gt;false&lt;/d20p1:IsRecursionBanned&gt;&#xD;
+                                      &lt;/d9p1:State&gt;&#xD;
+                                    &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                    &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                      &lt;d9p1:Children /&gt;&#xD;
+                                      &lt;d9p1:State xmlns:d20p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d20p1:SnapshotTreeNode.State"&gt;&#xD;
+                                        &lt;d20p1:mySectionNodesState&gt;&#xD;
+                                          &lt;d20p1:myData&gt;24025/5&lt;/d20p1:myData&gt;&#xD;
+                                        &lt;/d20p1:mySectionNodesState&gt;&#xD;
+                                        &lt;d20p1:IsRecursionBanned&gt;false&lt;/d20p1:IsRecursionBanned&gt;&#xD;
+                                      &lt;/d9p1:State&gt;&#xD;
+                                    &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                    &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                      &lt;d9p1:Children /&gt;&#xD;
+                                      &lt;d9p1:State xmlns:d20p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d20p1:SnapshotTreeNode.State"&gt;&#xD;
+                                        &lt;d20p1:mySectionNodesState&gt;&#xD;
+                                          &lt;d20p1:myData&gt;24335/5&lt;/d20p1:myData&gt;&#xD;
+                                        &lt;/d20p1:mySectionNodesState&gt;&#xD;
+                                        &lt;d20p1:IsRecursionBanned&gt;false&lt;/d20p1:IsRecursionBanned&gt;&#xD;
+                                      &lt;/d9p1:State&gt;&#xD;
+                                    &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                    &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                      &lt;d9p1:Children /&gt;&#xD;
+                                      &lt;d9p1:State xmlns:d20p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Folding" i:type="d20p1:ZeroFoldedNode.State"&gt;&#xD;
+                                        &lt;d20p1:FoldRoot xmlns:d21p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d21p1:SnapshotTreeNode.State"&gt;&#xD;
+                                          &lt;d21p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d21p1:myData&gt;24271/5&lt;/d21p1:myData&gt;&#xD;
+                                          &lt;/d21p1:mySectionNodesState&gt;&#xD;
+                                          &lt;d21p1:IsRecursionBanned&gt;false&lt;/d21p1:IsRecursionBanned&gt;&#xD;
+                                        &lt;/d20p1:FoldRoot&gt;&#xD;
+                                        &lt;d20p1:FoldedNodes xmlns:d21p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays"&gt;&#xD;
+                                          &lt;d21p1:anyType xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;24255/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                          &lt;d21p1:anyType xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;24239/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                          &lt;d21p1:anyType xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;2421D/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                          &lt;d21p1:anyType xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;24201/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                          &lt;d21p1:anyType xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;241E5/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                          &lt;d21p1:anyType xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;241C9/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                          &lt;d21p1:anyType xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;241AD/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                          &lt;d21p1:anyType xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;24191/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                          &lt;d21p1:anyType xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;2413D/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                          &lt;d21p1:anyType xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;23669/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                          &lt;d21p1:anyType xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;234FD/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                          &lt;d21p1:anyType xmlns:d22p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d22p1:SnapshotTreeNode.State"&gt;&#xD;
+                                            &lt;d22p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d22p1:myData&gt;23471/5&lt;/d22p1:myData&gt;&#xD;
+                                            &lt;/d22p1:mySectionNodesState&gt;&#xD;
+                                            &lt;d22p1:IsRecursionBanned&gt;false&lt;/d22p1:IsRecursionBanned&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                          &lt;d21p1:anyType i:type="d20p1:FilterSubtreeFoldedNode.State"&gt;&#xD;
+                                            &lt;d20p1:FoldRoot xmlns:d23p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d23p1:SnapshotTreeNode.State"&gt;&#xD;
+                                              &lt;d23p1:mySectionNodesState&gt;&#xD;
+                                                &lt;d23p1:myData&gt;AB91/5&lt;/d23p1:myData&gt;&#xD;
+                                              &lt;/d23p1:mySectionNodesState&gt;&#xD;
+                                              &lt;d23p1:IsRecursionBanned&gt;false&lt;/d23p1:IsRecursionBanned&gt;&#xD;
+                                            &lt;/d20p1:FoldRoot&gt;&#xD;
+                                            &lt;d20p1:FoldedNodes i:nil="true" /&gt;&#xD;
+                                          &lt;/d21p1:anyType&gt;&#xD;
+                                        &lt;/d20p1:FoldedNodes&gt;&#xD;
+                                      &lt;/d9p1:State&gt;&#xD;
+                                    &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                  &lt;/d9p1:Children&gt;&#xD;
+                                  &lt;d9p1:State xmlns:d18p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d18p1:SnapshotTreeNode.State"&gt;&#xD;
+                                    &lt;d18p1:mySectionNodesState&gt;&#xD;
+                                      &lt;d18p1:myData&gt;24351/5&lt;/d18p1:myData&gt;&#xD;
+                                    &lt;/d18p1:mySectionNodesState&gt;&#xD;
+                                    &lt;d18p1:IsRecursionBanned&gt;false&lt;/d18p1:IsRecursionBanned&gt;&#xD;
+                                  &lt;/d9p1:State&gt;&#xD;
+                                &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                  &lt;d9p1:Children /&gt;&#xD;
+                                  &lt;d9p1:State xmlns:d18p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d18p1:SnapshotTreeNode.State"&gt;&#xD;
+                                    &lt;d18p1:mySectionNodesState&gt;&#xD;
+                                      &lt;d18p1:myData&gt;2C931/5&lt;/d18p1:myData&gt;&#xD;
+                                    &lt;/d18p1:mySectionNodesState&gt;&#xD;
+                                    &lt;d18p1:IsRecursionBanned&gt;false&lt;/d18p1:IsRecursionBanned&gt;&#xD;
+                                  &lt;/d9p1:State&gt;&#xD;
+                                &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                  &lt;d9p1:Children /&gt;&#xD;
+                                  &lt;d9p1:State xmlns:d18p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Folding" i:type="d18p1:FilterSubtreeFoldedNode.State"&gt;&#xD;
+                                    &lt;d18p1:FoldRoot xmlns:d19p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d19p1:SnapshotTreeNode.State"&gt;&#xD;
+                                      &lt;d19p1:mySectionNodesState&gt;&#xD;
+                                        &lt;d19p1:myData&gt;AA41/5&lt;/d19p1:myData&gt;&#xD;
+                                      &lt;/d19p1:mySectionNodesState&gt;&#xD;
+                                      &lt;d19p1:IsRecursionBanned&gt;false&lt;/d19p1:IsRecursionBanned&gt;&#xD;
+                                    &lt;/d18p1:FoldRoot&gt;&#xD;
+                                    &lt;d18p1:FoldedNodes xmlns:d19p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" i:nil="true" /&gt;&#xD;
+                                  &lt;/d9p1:State&gt;&#xD;
+                                &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                                &lt;d9p1:AbstractTreeNodeState&gt;&#xD;
+                                  &lt;d9p1:Children /&gt;&#xD;
+                                  &lt;d9p1:State xmlns:d18p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Folding" i:type="d18p1:ZeroFoldedNode.State"&gt;&#xD;
+                                    &lt;d18p1:FoldRoot xmlns:d19p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d19p1:SnapshotTreeNode.State"&gt;&#xD;
+                                      &lt;d19p1:mySectionNodesState&gt;&#xD;
+                                        &lt;d19p1:myData&gt;24389/5&lt;/d19p1:myData&gt;&#xD;
+                                      &lt;/d19p1:mySectionNodesState&gt;&#xD;
+                                      &lt;d19p1:IsRecursionBanned&gt;false&lt;/d19p1:IsRecursionBanned&gt;&#xD;
+                                    &lt;/d18p1:FoldRoot&gt;&#xD;
+                                    &lt;d18p1:FoldedNodes xmlns:d19p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays"&gt;&#xD;
+                                      &lt;d19p1:anyType xmlns:d20p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d20p1:SnapshotTreeNode.State"&gt;&#xD;
+                                        &lt;d20p1:mySectionNodesState&gt;&#xD;
+                                          &lt;d20p1:myData&gt;2436D/5&lt;/d20p1:myData&gt;&#xD;
+                                        &lt;/d20p1:mySectionNodesState&gt;&#xD;
+                                        &lt;d20p1:IsRecursionBanned&gt;false&lt;/d20p1:IsRecursionBanned&gt;&#xD;
+                                      &lt;/d19p1:anyType&gt;&#xD;
+                                      &lt;d19p1:anyType xmlns:d20p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d20p1:SnapshotTreeNode.State"&gt;&#xD;
+                                        &lt;d20p1:mySectionNodesState&gt;&#xD;
+                                          &lt;d20p1:myData&gt;AB21/5&lt;/d20p1:myData&gt;&#xD;
+                                        &lt;/d20p1:mySectionNodesState&gt;&#xD;
+                                        &lt;d20p1:IsRecursionBanned&gt;false&lt;/d20p1:IsRecursionBanned&gt;&#xD;
+                                      &lt;/d19p1:anyType&gt;&#xD;
+                                      &lt;d19p1:anyType xmlns:d20p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d20p1:SnapshotTreeNode.State"&gt;&#xD;
+                                        &lt;d20p1:mySectionNodesState&gt;&#xD;
+                                          &lt;d20p1:myData&gt;AA5D/5&lt;/d20p1:myData&gt;&#xD;
+                                        &lt;/d20p1:mySectionNodesState&gt;&#xD;
+                                        &lt;d20p1:IsRecursionBanned&gt;false&lt;/d20p1:IsRecursionBanned&gt;&#xD;
+                                      &lt;/d19p1:anyType&gt;&#xD;
+                                    &lt;/d18p1:FoldedNodes&gt;&#xD;
+                                  &lt;/d9p1:State&gt;&#xD;
+                                &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                              &lt;/d9p1:Children&gt;&#xD;
+                              &lt;d9p1:State xmlns:d16p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d16p1:SnapshotTreeNode.State"&gt;&#xD;
+                                &lt;d16p1:mySectionNodesState&gt;&#xD;
+                                  &lt;d16p1:myData&gt;2C94D/5&lt;/d16p1:myData&gt;&#xD;
+                                &lt;/d16p1:mySectionNodesState&gt;&#xD;
+                                &lt;d16p1:IsRecursionBanned&gt;false&lt;/d16p1:IsRecursionBanned&gt;&#xD;
+                              &lt;/d9p1:State&gt;&#xD;
+                            &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                          &lt;/d9p1:Children&gt;&#xD;
+                          &lt;d9p1:State xmlns:d14p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotViews.Performance.Folding" i:type="d14p1:FilterFoldedNode.State"&gt;&#xD;
+                            &lt;d14p1:FoldRoot xmlns:d15p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d15p1:SnapshotTreeNode.State"&gt;&#xD;
+                              &lt;d15p1:mySectionNodesState&gt;&#xD;
+                                &lt;d15p1:myData&gt;3C809/5&lt;/d15p1:myData&gt;&#xD;
+                              &lt;/d15p1:mySectionNodesState&gt;&#xD;
+                              &lt;d15p1:IsRecursionBanned&gt;false&lt;/d15p1:IsRecursionBanned&gt;&#xD;
+                            &lt;/d14p1:FoldRoot&gt;&#xD;
+                            &lt;d14p1:FoldedNodes xmlns:d15p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays" /&gt;&#xD;
+                            &lt;d14p1:Children xmlns:d15p1="http://schemas.microsoft.com/2003/10/Serialization/Arrays"&gt;&#xD;
+                              &lt;d15p1:anyType xmlns:d16p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d16p1:SnapshotTreeNode.State"&gt;&#xD;
+                                &lt;d16p1:mySectionNodesState&gt;&#xD;
+                                  &lt;d16p1:myData&gt;2C94D/5&lt;/d16p1:myData&gt;&#xD;
+                                &lt;/d16p1:mySectionNodesState&gt;&#xD;
+                                &lt;d16p1:IsRecursionBanned&gt;false&lt;/d16p1:IsRecursionBanned&gt;&#xD;
+                              &lt;/d15p1:anyType&gt;&#xD;
+                            &lt;/d14p1:Children&gt;&#xD;
+                          &lt;/d9p1:State&gt;&#xD;
+                        &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                      &lt;/d9p1:Children&gt;&#xD;
+                      &lt;d9p1:State xmlns:d12p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d12p1:ThreadStartNode.State"&gt;&#xD;
+                        &lt;d12p1:mySectionNodesState&gt;&#xD;
+                          &lt;d12p1:myData&gt;3C825/5&lt;/d12p1:myData&gt;&#xD;
+                        &lt;/d12p1:mySectionNodesState&gt;&#xD;
+                        &lt;d12p1:Name&gt;Thread #3&lt;/d12p1:Name&gt;&#xD;
+                        &lt;d12p1:ThreadType /&gt;&#xD;
+                      &lt;/d9p1:State&gt;&#xD;
+                    &lt;/d9p1:AbstractTreeNodeState&gt;&#xD;
+                  &lt;/d9p1:Children&gt;&#xD;
+                  &lt;d9p1:State xmlns:d10p1="http://schemas.datacontract.org/2004/07/JetBrains.dotTrace.SnapShotApi.Nodes" i:type="d10p1:RootNode.StateOfThreadStartNodeBTfqEAW4"&gt;&#xD;
+                    &lt;d10p1:mySectionNodesState&gt;&#xD;
+                      &lt;d10p1:myData&gt;7D/0;A6/1;123/2;1EB/3;123/4;3C825/5;1EB/6&lt;/d10p1:myData&gt;&#xD;
+                    &lt;/d10p1:mySectionNodesState&gt;&#xD;
+                    &lt;d10p1:IsFiltered&gt;true&lt;/d10p1:IsFiltered&gt;&#xD;
+                  &lt;/d9p1:State&gt;&#xD;
+                &lt;/d8p1:RootNodeData&gt;&#xD;
+                &lt;d8p1:VerticalScroll&gt;0&lt;/d8p1:VerticalScroll&gt;&#xD;
+              &lt;/d5p1:ViewState&gt;&#xD;
+            &lt;/d5p1:ViewsFactoryBase.State.ViewKeyAndState&gt;&#xD;
+          &lt;/d5p1:States&gt;&#xD;
+        &lt;/d4p1:ViewsFactoryState&gt;&#xD;
+      &lt;/d1p1:TabRootState&gt;&#xD;
+    &lt;/d1p1:PerformanceTabSerializer.State.TabState&gt;&#xD;
+  &lt;/d1p1:TabStates&gt;&#xD;
+&lt;/z:anyType&gt;&lt;/TabManagerStates&gt;</s:String></wpf:ResourceDictionary>
